@@ -1,0 +1,21 @@
+h3{
+    color: magenta;
+}
+p{
+    color: blueviolet;
+}
+.blog{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+}
+.header{
+    height: 300px;
+    /*background-image: url('1.jpg');*/
+    /*background-image: url(../8640.jpg);*/
+    background-image: url(../Images/92336405_651597598740022_7007705688541495296_n.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: gray;
+    color: gold;
+}
